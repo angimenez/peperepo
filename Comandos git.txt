@@ -6,3 +6,7 @@ git add . : Añado los archivos a ser "commiteados"
 
 git commit -m "Message" : Hago "la foto" del código.
 
+git remote add origin https://github.com/angimenez/peperepo.git : Añado mi servidor en la nube (la dirección).
+
+git push -u origin master : Nos va a cargar los cambios y crea una rama llamada master en el repo de origen.
+
