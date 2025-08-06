@@ -4,3 +4,5 @@ git status: Nos dice el estado actual de nuestro repo
 
 git add . : Añado los archivos a ser "commiteados"
 
+git commit -m "Message" : Hago "la foto" del código.
+
