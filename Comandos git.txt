@@ -10,5 +10,6 @@ git remote add origin https://github.com/angimenez/peperepo.git : Añado mi serv
 
 git push -u origin master : Nos va a cargar los cambios y crea una rama llamada master en el repo de origen.
 
+asdasdas sad as das dsa das d as.
 git checkout -b nombreRama : Me crea una nueva rama (referencia al último commit de la rama actual).
 
